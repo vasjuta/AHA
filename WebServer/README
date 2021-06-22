@@ -1,0 +1,14 @@
+1. Install (python3.7+)
+   pip3 install sanic==21.3.4
+
+2. Run API
+   python3 main.py
+
+3. Use API
+   curl -XPOST localhost:4040/hello
+
+   curl -XPOST localhost:4040/is_correct -d '{"tweet": "This time it's Discovr for iPhone at #sxsw. Climbing the App Store charts!"}'
+
+   curl -XPOST localhost:4040/check_single -d '{"tweet": "OMG, he bigger than I"}'
+
+   curl -XPOST localhost:4040/check_many -d '{"tweets": ["what a day, bro!", "rt @mention yeah, I know"]}'

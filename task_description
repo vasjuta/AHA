@@ -1,0 +1,40 @@
+Task description:
+
+
+
+Imagine that your company wants to sell a grammatical error detection plug-in for people who write tweets. Whenever the users of the system post a tweet, it is first sent to your server and checked for grammatical errors. If such error is detected the user is warned before the tweet is posted. Note that since twitter is an informal social network, informal English forms, such as “This is sooooo cool!” or “What’s up bro?”, should not be considered ungrammatical.
+
+
+
+Your task is:
+
+
+
+1) Build and train a classifier that can discriminate between grammatical and ungrammatical tweets.
+
+
+
+2) Show your managers how well it works so they can decide if it’s good enough to be used.
+
+
+
+3) Write a deployable web service that your company’s web browser plug-in could use to determine if there are errors in the users’ tweets.
+
+
+
+Expected deliverables:
+
+
+
+1) A short report describing the design choices that you made in building and evaluating your classifier as well as how good it is.
+
+
+
+2) The code that you wrote to perform this exercise. Please use Python.
+
+
+
+3) The datasets that you used to train and evaluate your model (if the train set is too big then you can submit a small sample of it).
+
+
+Please note that you don’t have to build the perfect system. Try to think of a reasonable approach to tackle this problem and complete all the requirements specified without investing an excessive amount of time.

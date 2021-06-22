@@ -1,0 +1,52 @@
+RT @mention Dear folks at #SXSW. Got lost? Can use a FREE compass with map built-in? Here's one: {link}: INCORRECT; {'built-in'}
+RT @mention Get a look at #SXSW's rumored #Apple &quot;pop-up&quot; store in Austin: {link}: INCORRECT; {'pop-up'}
+@mention RT: New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW sponsored by #Mashable {link}: INCORRECT; {'uberguide'}
+Post-Facebook Deal, Beluga Gets A Final SXSW Tune-Up {link} #ButFacebook #FastSociety #iPhone #SXSW: INCORRECT; {'tune-up', 'post-facebook'}
+Catch 22â€°Ã›_ I mean iPad 2 at #SXSW : {link}: INCORRECT; {'ã', '°', '€', '›', '22â'}
+Has an iPad 2 !!! Wohooo! Tnx Apple for the popup shop at #sxsw!: INCORRECT; {'tnx', 'wohooo'}
+Brilliant use case! #SXSW &quot;@mention ...kik concierge service is great. Get @mention for android or iPhone and add the sxsw user &amp; ask away&quot;: INCORRECT; {'kik'}
+sure to be a total scene! RT @mention Just spoke with the Austin Apple store. They are cautiously optimistic. #nerd #sxsw: INCORRECT; 
+IPad Design Headaches. interface metaphor. Looks like a book, make it behave like a book. Simple stuff, but often forgotten. #SXSW: CORRECT; 
+RT @mention Following the @mention #leanUX panel from #sxsw on Realtime on Google Docs {link} thanks to @mention: CORRECT; 
+RT @mention I left my WHITE iPhone 4G in a cab in Austin at #SXSW
+
+Internet, please help.: INCORRECT; {'4g'}
+New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW sponsored by #Mashable {link}: INCORRECT; {'uberguide'}
+Google maps/traffic view has saved people 2-years of time. #sxsw: CORRECT; 
+We are gearing up for the #SXSW interactive trade show! We are across from Google:  {link}: CORRECT; 
+@mention :New #UberSocial for #iPhone now in the App Store includes UberGuide to #SXSW sponsored by #Mashable {link}: INCORRECT; {'uberguide'}
+VentureBeat: RT @mention On its second day in business, the Apple pop-up store appears to be trending. #sxsw #vb (@mention  {link}: INCORRECT; {'venturebeat', 'pop-up'}
+Talk by @mention beginning now. First met her in summer of '99 when she started at @mention Always enjoy seeing her speak. #sxsw: INCORRECT; 
+@mention #SXSW don't forget @mention to plan your schedule. Plus our free iphone app {link}: INCORRECT; 
+RT @mention I mean, sliced bread is great. But google bread is going to be revolutionary. #sxsw: CORRECT; 
+Really excited to see the documentary Something Ventured at #sxsw today. About the rise of Intel, Apple, Genentech, Cisco, &amp; Atari.: INCORRECT; {'genentech'}
+RT @mention RT @mention #SXSW a line of about 100 outside Apple pop- up store at Sixth &amp; Congress: INCORRECT; 
+C'mon already - @mention to Launch Major New Social Network Called Circles, Possibly Today by @mention {link} via @mention #SxSW: INCORRECT; 
+Makeshift apple store at 6th and congress. You're kidding me. Amazing #sxsw #apple: INCORRECT; {'6th'}
+RT @mention RT @mention Best thing I've heard this weekend at #SXSW &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.&quot; @mention: INCORRECT; 
+C23: Check the Head  {link} [codes valid: 12:00-3:59:59p 03/13/11] #infektd #sxsw #cvdc: INCORRECT; {'c23', '59p', '3:59', '12:00-', '03/13'}
+RT @mention SXSW attendees! Come see #Aquent booth 1415 #SXSW trade show. You might win iPad 2!: INCORRECT; 
+Love that I have a MacBook, iPad, and iPhone with me at #sxsw this year. One runs out of juice, and I can jump to the next.: INCORRECT; {'macbook'}
+Every outlet in this bar has an iPhone charger in it. #sxsw (@mention The Driskill Hotel Bar w/ 16 others) [pic]: {link}: INCORRECT; {']:', 'driskill'}
+Some inspiring stories coming out of #SXSW RT @mention @mention &quot;I gave my iPad 2 money to #Japan relief. I don't need an iPad 2.&quot;: INCORRECT; 
+contextual discovery, how to find answers to your questions #google #SxSW: CORRECT; 
+Free on the #iTunes store, 22 tracks from #SXSW featured artists.. {link} Grab it before its gone.. Thanks #Apple !: INCORRECT; {'..'}
+Google plays down social network Circles at #SxSW {link} - FB needs a rival, even if it's just to keep them on their toes: INCORRECT; {'fb'}
+More #SXSW Awesomeness! Apple is opening up a temporary store in downtown Austin for #SXSW and the iPad 2 launch {link}: CORRECT; 
+#futuremf @mention {link} spec for recipes on the web, now in google search: {link}  #sxsw: CORRECT; 
+iTunes Music Store has a free SXSW music sampler - SXSW: Featured Artists - {link} #iTunes #sxsw: CORRECT; 
+Rumor: Apple to set up temporary Store for ipad2 release near sxsw convention center in downtown Austin {link} #sxsw #ipad2: INCORRECT; 
+RT @mention RT @mention It's just crazy to look around sxsw and realize last year no one had an iPad. #sxsw: CORRECT; 
+RT @mention Apple is &quot;the classiest, fascist company in America,&quot; says @mention #sxsw: CORRECT; 
+check this out {link} - cool geo-location app for #iPhone, mixing music and parties at #SXSW with #maps I'm going next year...: INCORRECT; {'geo-location'}
+#SXSWi iPhone gone. Yellow cab minivan 350 if anyone at #SXSW happens to get in a yellow minivan cab.: INCORRECT; 
+smart! Apple opens a pop-up store in Austin so people in for #SXSW can get new iPads. bit.ly/i41H53 (via @mention @mention: INCORRECT; {'pop-up', 'bit.ly/i41h53'}
+Why does all the #Android meetups here in #Austin are when I'm at work. Well at least there is the PS meetup #sxsw: INCORRECT; {'meetup', 'ps', 'meetups'}
+What time does the #apple store at #sxsw open? Pulling the #ipad2 trigger.: INCORRECT; 
+Contextual discovery is a part of the future according to Google #SXSW: CORRECT; 
+RT @mention @mention Help us get the word out about our #sxsw party featuring @mention and our iPad2 giveaway? {link}: INCORRECT; 
+Google to give social networking another try with &quot;Circles&quot;: via @mention @mention  {link} #sxsw: INCORRECT; 
+Any iPad djs here? Need one for 3am Tuesday- Douche bags need not apply- #sxsw: INCORRECT; {'djs', '3am'}
+Pedicab + iPhone charger would be epic win. #SXSW: INCORRECT; 
+iTunes offers up a free SXSW sampler featuring a selection of 22 of this year's performers - {link} #iTunes #SXSW: CORRECT; 
+google maps 5.0 - guys, this will be huge!!!! google and marissa mayer #sxsw: INCORRECT; 

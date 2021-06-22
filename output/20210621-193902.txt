@@ -1,0 +1,10 @@
+Great new support for web fonts @mention here at #SXSW #google: CORRECT; 
+Need a few #android loving volunteers from 10:45am-3 at #sxsw: INCORRECT; ["10:45"]
+The big takeaway from #SXSW interactive - I need an iphone.: CORRECT; 
+The flight from SF to Austin is filled with Google tshirts and YouTube fleeces. #sxsw: CORRECT; 
+Just when you thought &quot;social&quot; couldn't get more overblown at #sxsw, Google may be announcing &quot;Circles&quot; today: {link}: CORRECT; 
+RT @mention We're at Lustre Pearl for #teamandroidsxsw cause we love our Android geeks! #sxsw {link}: CORRECT; 
+@mention uses the google chrome developer tool on itself. Points out javascript console has extensive API  #killerhack #sxsw: INCORRECT; ["javascript"]
+RT @mention Last month it was Discovr for iPad at #midem. This time it's Discovr for iPhone at #sxsw. Climbing the App Store charts! {link}: INCORRECT; ["discovr"]
+Sam has unlocked the TightAssTraveler achievement at #sxsw using Google Maps with Transit instructions.: CORRECT; 
+We are excited to see HLS Dynamic Video Ad Insertion for TV Everywhere working on the #iPad2 later today at the #SXSW PopUp Apple Store: INCORRECT; ["hls", "tv"]
